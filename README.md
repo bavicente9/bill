@@ -3,8 +3,7 @@
 
 This project is a simple bill software developed with POO with Java and Maven for  SQLite dependences.
 
-Database
-Is a relational data base used with SQLite, it has 4 tables to save all necessary data.
+Database used: Is a relational data base used with SQLite, it has 4 tables to save all necessary data.
 
 
 have 2 modules :
