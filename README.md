@@ -4,6 +4,7 @@
 This project is a simple bill software developed with POO with Java and Maven for  SQLite dependences.
 
 Database used: Is a relational data base used with SQLite, it has 4 tables to save all necessary data.
+All data used is fake generated in https://www.mockaroo.com/
 
 
 have 2 modules :
